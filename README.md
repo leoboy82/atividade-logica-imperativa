@@ -13,8 +13,8 @@ Essa é uma atividade do Proz - Talento Cloud
    real alturaUsuario
 
 3. Utilization of Assignment Command:
-   nomeUsuario = "José Almeida da Silva"
-   cpfUsuario = "12345678900"
-   rgUsuario = "9517530"
-   alturaUsuario = 1.78
-   enderecoUsuario = "Rua A, 380 – Centro – Recife/PE"
+   nomeUsuario <- "José Almeida da Silva"
+   cpfUsuario <- "12345678900"
+   rgUsuario <- "9517530"
+   alturaUsuario <- 1.78
+   enderecoUsuario <- "Rua A, 380 – Centro – Recife/PE"
